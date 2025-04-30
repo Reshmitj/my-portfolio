@@ -5,6 +5,17 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
+.about.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.about-content p {
+  font-size: 1rem;
+  line-height: 1.8;
+  margin-bottom: 1rem;
+}
 
 /* Body */
 body {
