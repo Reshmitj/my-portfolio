@@ -29,11 +29,20 @@
   max-width: 700px;
   flex: 1 1 500px;
   font-family: 'Open Sans', sans-serif;
-  font-size: 0.75rem;
+  font-size: 0.7rem !important;
   font-style: italic;
   line-height: 1.8;
   color: #e0e0e0;
 }
+
+.about-text p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 0.7rem !important;
+  font-style: italic;
+  line-height: 1.5;
+  color: #e0e0e0;
+}
+
 
 .about-text strong {
   font-style: italic;
