@@ -26,12 +26,19 @@
 }
 
 .about-text {
+  max-width: 650px;
   flex: 1 1 500px;
   font-family: 'Open Sans', sans-serif;
   font-size: 0.95rem;
   font-style: italic;
   line-height: 1.8;
   color: #e0e0e0;
+}
+
+.about-text strong {
+  font-style: italic;
+  font-weight: 600; /* softer bold */
+  color: #f8f8f8;
 }
 
 .section-title {
